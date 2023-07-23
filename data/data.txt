@@ -1,0 +1,1 @@
+This folder consists of the data downloaded from the kaggle. Data file is 'flipkart_com-ecommerce_sample.csv'. The detailed instructions can be found in the 'Setting Up the Data' section of the readme.md
