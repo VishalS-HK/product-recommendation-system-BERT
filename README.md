@@ -29,11 +29,11 @@ The talented team behind this innovative project comprises:
 
 ## Jupyter Notebook
 
-You can find a detailed step-by-step implementation of the recommendation system in the Jupyter Notebook provided in this repository: [Link to Jupyter Notebook]()
+You can find a detailed step-by-step implementation of the recommendation system in the Jupyter Notebook provided in this repository: [Link to Jupyter Notebook](https://github.com/VishalS-HK/product-recommendation-system-BERT/blob/main/Product_Recommendation_System_BERT.ipynb)
 
 ## Dataset
 
-The dataset used for training and evaluation can be downloaded from the following link: [Link to Dataset]()
+The dataset(CSV file) used for training and evaluation can be downloaded from the following link: [Link to Dataset](https://github.com/VishalS-HK/product-recommendation-system-BERT/tree/main/data)
 
 
 ## Installation
