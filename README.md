@@ -10,7 +10,7 @@ The traditional recommendation system based on KMeans and TF-IDF has limitations
 
 The project was undertaken during an 8-week-long summer workshop held at the Center for Innovation and Entrepreneurship (CIE), PES University RR.
 
-The talented team behind this innovative project comprises:
+The team behind this innovative project comprises:
 
 - Harish Satheesh
 - Kota Bharadwaj
