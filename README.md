@@ -1,4 +1,4 @@
-# Product Recommendation System using BERT and Sentence Transformers
+# Product Recommendation System using Sentence Transformers
 
 ## Introduction
 
