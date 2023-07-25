@@ -40,7 +40,7 @@ The dataset(CSV file) used for training and evaluation can be downloaded from th
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone git@github.com:VishalS-HK/product-recommendation-system-BERT.git
 cd product-recommendation-system-BERT
 ```
 
