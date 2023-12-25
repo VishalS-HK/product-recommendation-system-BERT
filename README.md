@@ -46,3 +46,6 @@ cd product-recommendation-system-BERT
 
 ## Contact
 For any inquiries or questions, please contact vishal.rsn21@gmail.com.
+
+---
+<p align="center"><img src="https://hits.sh/github.com/VishalS-HK/product-recommendation-system-BERT.svg?label=Views&color=fc8e00&labelColor=000" alt="view-count" /></p>
